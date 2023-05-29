@@ -120,8 +120,3 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libqminvapi
-    
-PRODUCT_PACKAGES += \
-    libqmiservices \
-    libqmi_cci \
-    libmdmdetect
